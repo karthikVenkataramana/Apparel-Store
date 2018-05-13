@@ -1,6 +1,7 @@
 # Karthik Venkataramana Pemmaraju
 
-A secure E-Commerce website constructed using PHP 7 (OOP). Feel free to reach me at karthik.venkat.p@gmail.com in case if you notice any bugs or security fixes.
+A secure E-Commerce website constructed using PHP 7 (OOP). 
+Feel free to reach me at karthik.venkat.p@gmail.com in case if you notice any bugs or security fixes.
 Collaborators:
     Obianuju Okafor (oco0017) 
     Isaac Samuel Raj Boddu (ib0076)
