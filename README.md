@@ -8,15 +8,15 @@ Feel free to reach me at karthik.venkat.p@gmail.com in case if you notice any bu
  <br/>
 site url: https://apparels.000webhostapp.com/index.php <br/>
 <br/>
-# test user credentials<br/>
+# Test User credentials<br/>
 user username: karthik@gmail.com<br/>
 user password: Karthik@123<br/>
 
-# test paypal credentials<br/>
+# Test PayPal credentials<br/>
 paypal username: group5se_buyer@gmail.com<br/>
 password: Group1@Hackers<br/>
   
-# test admin credentials<br/>
+# Test Admin credentials<br/>
 admin username: Group1ApparelAdmin@my.apparel.net<br/>
 admin password: !)(@5450@Hackers<br/>
 
