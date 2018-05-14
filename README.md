@@ -7,7 +7,7 @@ Feel free to reach me at karthik.venkat.p@gmail.com in case if you notice any bu
     Isaac Samuel Raj Boddu (ib0076)<br/>
  <br/>
 site url: https://apparels.000webhostapp.com/index.php <br/>
-<br/>
+
 # Test User credentials<br/>
 user username: karthik@gmail.com<br/>
 user password: Karthik@123<br/>
