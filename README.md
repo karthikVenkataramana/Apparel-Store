@@ -20,5 +20,5 @@ password: Group1@Hackers<br/>
 admin username: Group1ApparelAdmin@my.apparel.net<br/>
 admin password: !)(@5450@Hackers<br/>
 
-![Preview](https://github.com/karthikVenkataramana/Apparel-Store/blob/master/preview.PNG)
-![Cart](https://github.com/karthikVenkataramana/Apparel-Store/blob/master/cart.PNG)
+![Preview](https://github.com/karthikVenkataramana/Apparel-Store/blob/master/preview.PNG) <br/>
+![Cart](https://github.com/karthikVenkataramana/Apparel-Store/blob/master/cart.PNG) <br/>
